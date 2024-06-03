@@ -1,2 +1,2 @@
 # QuantKC
-A Full-Stack Quantitative Analysis Package
+A Full-Stack Quantitative Analysis Platform.
